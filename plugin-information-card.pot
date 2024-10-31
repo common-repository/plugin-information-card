@@ -1,0 +1,154 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Plugin Information Card\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-18 10:50+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 2.2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: plugin-information-card.php:46
+msgid "Author"
+msgstr ""
+
+#: plugin-information-card.php:52 plugin-information-card.php:172
+msgid "Last Updated"
+msgstr ""
+
+#: plugin-information-card.php:53 plugin-information-card.php:170
+msgid "Active Installs"
+msgstr ""
+
+#: plugin-information-card.php:54 plugin-information-card.php:171
+msgid "Downloaded"
+msgstr ""
+
+#: plugin-information-card.php:82 plugin-information-card.php:185
+msgid "Plugin information Card"
+msgstr ""
+
+#: plugin-information-card.php:124
+msgid "1+ Million"
+msgstr ""
+
+#: plugin-information-card.php:126
+msgid "Less Than 10"
+msgstr ""
+
+#: plugin-information-card.php:158
+msgid "Plugin Name"
+msgstr ""
+
+#: plugin-information-card.php:159
+msgid "Plugin Slug"
+msgstr ""
+
+#: plugin-information-card.php:160
+msgid "Latest Version"
+msgstr ""
+
+#: plugin-information-card.php:161
+msgid "Plugin Author"
+msgstr ""
+
+#: plugin-information-card.php:162
+msgid "Plugin Profile"
+msgstr ""
+
+#: plugin-information-card.php:163
+msgid "Required WordPress Version"
+msgstr ""
+
+#: plugin-information-card.php:164
+msgid "Tested Compatible WordPress Version"
+msgstr ""
+
+#: plugin-information-card.php:165
+msgid "Required PHP Version"
+msgstr ""
+
+#: plugin-information-card.php:166
+msgid "Rating"
+msgstr ""
+
+#: plugin-information-card.php:167
+msgid "Number of Ratings"
+msgstr ""
+
+#: plugin-information-card.php:168
+msgid "Support Threads"
+msgstr ""
+
+#: plugin-information-card.php:169
+msgid "Support Threads Resolved"
+msgstr ""
+
+#: plugin-information-card.php:173
+msgid "Added Date"
+msgstr ""
+
+#: plugin-information-card.php:174
+msgid "Short Description"
+msgstr ""
+
+#: plugin-information-card.php:175
+msgid "Description"
+msgstr ""
+
+#: plugin-information-card.php:176
+msgid "Plugin URL"
+msgstr ""
+
+#: plugin-information-card.php:177
+msgid "Homepage URL"
+msgstr ""
+
+#: plugin-information-card.php:178
+msgid "Download URL"
+msgstr ""
+
+#: plugin-information-card.php:179
+msgid "Donation URL"
+msgstr ""
+
+#: plugin-information-card.php:180
+msgid "Icon URL"
+msgstr ""
+
+#: plugin-information-card.php:181
+msgid "Banner URL"
+msgstr ""
+
+#: plugin-information-card.php:192
+msgid "Format"
+msgstr ""
+
+#: plugin-information-card.php:223
+msgid "CSS"
+msgstr ""
+
+#: plugin-information-card.php:227
+msgid "Caching Days"
+msgstr ""
+
+#: plugin-information-card.php:228
+msgid "days"
+msgstr ""
+
+#: plugin-information-card.php:237
+msgid "How to display the plugin information card"
+msgstr ""
+
+#: plugin-information-card.php:238
+msgid "Just use the &#91;pic&#93; shortcode with the plugin slug attribute like this:"
+msgstr ""
